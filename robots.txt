@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sopi22.github.io/sitemap.xml

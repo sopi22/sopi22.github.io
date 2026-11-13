@@ -1,0 +1,19 @@
+# Jhoana Sophia Munar (sopi22)
+
+> Student developer who builds small, practical open-source tools for Windows, Linux and
+> Android, and checks claims with real tests instead of trusting what a system reports.
+
+## Tools
+- [StayGone](https://github.com/sopi22/StayGone): keeps removed Windows bloatware gone after updates, or asks first. Nothing to install.
+- [RepoNudge](https://github.com/sopi22/RepoNudge): a nudge when one of your GitHub repos needs attention, with a plain "what to do" line.
+- [joplin-reading-copy](https://github.com/sopi22/joplin-reading-copy): shares one Joplin notebook with family as read-only PDFs through a shared folder.
+- [chronobot](https://github.com/sopi22/chronobot): a Telegram reminder bot that asks when a time is unclear instead of guessing.
+
+## Experiments
+- [polygraph](https://github.com/sopi22/polygraph): checks an AI model file's claims against what it actually does, inside a locked-down sandbox.
+- [caveat-keeper](https://github.com/sopi22/caveat-keeper): catches warnings that quietly disappear from project notes written by AI helpers.
+- [phone-tryout](https://github.com/sopi22/phone-tryout): tries things out on a real Android phone instead of trusting what the phone reports.
+
+## Links
+- Website: https://sopi22.github.io
+- GitHub: https://github.com/sopi22
